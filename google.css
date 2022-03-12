@@ -1,0 +1,97 @@
+.header{
+    text-align: center;
+}
+
+.box_1{
+    background-color: rgb(231, 228, 228);
+    text-align: center;
+    margin:auto auto;
+    height: 65px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.search-box{
+    background-color: white;
+    text-align: center;
+    border-color: black;
+    border:1px;
+    border-style: solid;
+    width: 500px;
+    height: 20px;
+    margin:auto auto;
+}
+
+.search-button{
+    float: left;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 2px;
+    margin-left:650px;
+}
+
+.lucky-button{
+     float: left;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.left-box{
+    background-color:rgb(55, 211, 172) ;
+    width:515px;
+    height: 80px;
+    text-align: center;
+    float: left;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+
+.middle-box{
+    background-color: rgb(84, 192, 156);
+    width:270px ;
+    height: 80px;
+    text-align: center;
+    float:left;
+    margin-left: 2px;
+    padding-top: 5px;
+
+}
+
+.right-box{
+    background-color: rgb(7, 173, 146);
+    height: 80px;
+    width: 720px;
+    text-align: center;
+    float:right;
+    margin-left:2px;
+    padding-top: 5px;
+    margin-right: 5px;
+}
+
+.mail-box{
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: left;
+}
+
+.subscribe-button{
+    background-color: rgb(231, 228, 228);
+    float:left;
+    border-width: 1px;
+    border-style: solid;
+    padding: 0 10px 0 10px;
+    margin-left: 260px;
+}
+
+.archieve{
+    float:left;
+    margin-left: 10px;
+}
